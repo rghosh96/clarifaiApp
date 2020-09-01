@@ -1,0 +1,27 @@
+
+body {
+    padding: 100px;
+}
+
+h1 {
+    color: pink;
+    text-align: center;
+}
+
+p {
+    color: gray;
+}
+
+.results {
+    border: 1px solid gray;
+    color: gray;
+    border-radius: 30px;
+    text-align: center;
+    margin: 15px;
+    padding: 5px;
+}
+
+.btn-primary {
+    background-color: pink !important;
+    border: none !important;
+}
